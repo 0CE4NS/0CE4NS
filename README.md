@@ -12,6 +12,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=0CE4NS&show_icons=true&theme=radical" alt="GitHub Stats">
 
   <!-- Image 2 -->
-  <img align="left" width="350" src="https://i.ibb.co/Wf8zS4S/ocean-family.gif" alt="Image 2">
+  <img align="left" width="250" src="https://i.ibb.co/Wf8zS4S/ocean-family.gif" alt="Image 2">
 </div>
 
