@@ -1,5 +1,5 @@
 <!-- Title Banner -->
-![Title Banner](https://i.ibb.co/9Wmz1fy/Untitled.png)
+![Title Banner](https://raw.githubusercontent.com/0CE4NS/0CE4NS/main/0CE4NZ%20Banner.png)
 
 <!-- About Me Section -->
 ## 🔍 About Me
