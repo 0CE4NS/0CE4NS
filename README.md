@@ -4,7 +4,6 @@
 <!-- About Me Section -->
 ## 🔍 About Me
 - ⚓ I'm currently learning Java, Python, and Lua.⚓
-- ⚓ Robotics Team @Bronx Center for Science and Mathematics. ⚓
 
 <!-- GitHub Stats, Image 2, and Vertical Image 1 Section -->
 <div>
